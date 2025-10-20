@@ -1,1 +1,1 @@
-# Custom_OpenWrt-nikki_Smartdns_Rules
+# Custom_OpenWrt-nikki_Rules
